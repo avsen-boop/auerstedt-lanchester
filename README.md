@@ -114,7 +114,7 @@ Chandler's battle map (scale bar in miles) shows the French line from Friant's d
 
 ## How much of the army should have attacked?
 
-A common rule of thumb is to commit about **75–80%** of an army and hold **10–15%** in reserve. I could not find a source that sets out this exact ratio as Napoleonic or Prussian doctrine, so it is treated here as an assumption to test. Chandler describes Napoleon holding back a *masse de décision* to throw in at the crisis, but he gives no fixed share.
+A common rule of thumb is to commit about **75–80%** of an army and hold **10–15%** in reserve. This is treated here as an assumption to test. Chandler describes Napoleon holding back a *masse de décision* to throw in at the crisis, but he gives no fixed share.
 
 The model was re-run with 75–80% of the 50,000–60,000-man army in the main attack and 10–15% in reserve. The rest are detachments, baggage guards and stragglers. Two uses of the reserve were tried: **held back** (it never fights), or **thrown in later**, repeating the same plan 1–2 hours after the main attack.
 
