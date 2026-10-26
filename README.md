@@ -4,7 +4,7 @@ On 14 October 1806, Marshal Davout's III Corps (~27,000 men) defeated the main P
 
 This project asks a narrow question with a simple, transparent model:
 
-> **If the Prussians had used their numbers differently — concentrating, or enveloping one or both French flanks — would a Lanchester-type attrition model predict a Prussian victory?**
+> **If the Prussians had used their numbers differently, i.e. concentrating, or enveloping one or both French flanks, would a Lanchester-type attrition model predict a Prussian victory?**
 
 ![Monte Carlo result](figures/3_monte_carlo_win_probability.png)
 
